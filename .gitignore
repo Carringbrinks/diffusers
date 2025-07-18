@@ -176,3 +176,6 @@ tags
 
 # wandb
 wandb
+
+/examples/text_to_image/test_data
+/examples/text_to_image/train_data
